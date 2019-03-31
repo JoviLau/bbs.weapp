@@ -1,13 +1,17 @@
 {
-  "description": "Blog by Jovi",
-  "setting": {
-    "urlCheck": true,
-    "es6": false,
-    "postcss": false,
-    "minified": false
-  },
-  "compileType": "miniprogram",
-  "appid": "wxfd55ca91117c07ca",
-  "projectname": "jovi-blog",
-  "miniprogramRoot": "./dist"
+	"description": "Blog by Jovi",
+	"setting": {
+		"urlCheck": true,
+		"es6": false,
+		"postcss": false,
+		"minified": false,
+		"newFeature": true,
+		"nodeModules": false,
+		"autoAudits": false
+	},
+	"compileType": "miniprogram",
+	"appid": "wxfd55ca91117c07ca",
+	"projectname": "jovi-blog",
+	"miniprogramRoot": "dist/",
+	"condition": {}
 }
